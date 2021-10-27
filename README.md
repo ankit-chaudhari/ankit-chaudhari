@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ankit-chaudhari
 - 👀 I’m interested in ... C++ 
 - 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate on ... anyone 
+- 💞️ I’m looking to collaborate on ... anyone.
 - 📫 How to reach me ... ankitchaudhari8600@gmail.com
 
 
