@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ankit-chaudhari
-- 👀 I’m interested in ... C++ 
-- 🌱 I’m currently learning ... C++
+- 👀 I’m interested in ... Coding, Hacking, Cyber Sycurities
+- 🌱 I’m currently learning ... C++, Java, Python
+- 👀 Knowledge of Software Development and Testing, Databases, API and Performance of Software
 - 💞️ I’m looking to collaborate on ... anyone.
 - 📫 How to reach me ... ankitchaudhari8600@gmail.com
 
